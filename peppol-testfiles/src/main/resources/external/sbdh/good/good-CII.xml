@@ -29,7 +29,7 @@
     </Receiver>
     <DocumentIdentification>
       <Standard>urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100</Standard>
-      <TypeVersion>D16B</TypeVersion>
+      <TypeVersion>16B</TypeVersion>
       <InstanceIdentifier>123123</InstanceIdentifier>
       <Type>CrossIndustryInvoice</Type>
       <CreationDateAndTime>2014-01-17T05:10:10Z</CreationDateAndTime>
