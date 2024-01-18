@@ -53,6 +53,7 @@ public final class PeppolSBDHTestFiles
                                                   "good-to-9915-test.xml",
                                                   "good-type-version-20.xml",
                                                   "good-v11.xml",
+                                                  "good-CII.xml",
                                                   "good-with-timezone.xml" })
     {
       GOOD_CASES.add (new ClassPathResource (sPrefix + "/good/" + sFilename, _getCL ()));
